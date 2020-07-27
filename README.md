@@ -1,6 +1,6 @@
 ### Twitter Sentiment Analysis 
 
-Positive, Negative, Neutral tweets in English
+Positive, Negative and Neutral tweets in English
 
 Methods used:
 - SVM & KNN - For Bag Of Words
