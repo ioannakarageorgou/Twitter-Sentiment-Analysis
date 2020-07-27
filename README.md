@@ -1,4 +1,4 @@
-### Twitter Sentiment Analysis 
+### SemEval-2017 Task 4: Sentiment Analysis in Twitter
 
 Positive, Negative and Neutral tweets in English
 
